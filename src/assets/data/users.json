@@ -1,0 +1,166 @@
+[
+  {
+    "_id": "u101",
+    "username": "Bojack_HorseMan",
+    "password": "Bojack",
+    "fullname": "Bojack HorseMan",
+    "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg",
+    "bio": " Why do they put the 'skip ad' button so late? I'm not skipping now. I'm invested.",
+    "following": [
+      {
+        "_id": "u102",
+        "fullname": "Princess_Carolyn",
+        "imgUrl": "https://preview.redd.it/g8b6y8zygc981.jpg?auto=webp&s=ecd15c371d395963c1ce36cdade32540a4d7b617"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Sarah_Lynn",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/06/09.jpg"
+      },
+      {
+        "_id": "u105",
+        "fullname": "Diane_Nguyen",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/10/09.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u102",
+        "fullname": "Princess_Carolyn",
+        "imgUrl": "https://preview.redd.it/g8b6y8zygc981.jpg?auto=webp&s=ecd15c371d395963c1ce36cdade32540a4d7b617"
+      },
+      {
+        "_id": "u103",
+        "fullname": "Sarah_Lynn",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/06/09.jpg"
+      },
+      {
+        "_id": "u104",
+        "fullname": "Mr_Peanutbutter",
+        "imgUrl": "https://www.andersonscraft.com/wp-content/uploads/2020/11/cDUoY9Ar_400x400.jpg"
+      },
+      {
+        "_id": "u105",
+        "fullname": "Diane_Nguyen",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/10/09.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "u102",
+    "username": "Princess_Carolyn",
+    "password": "Princess",
+    "fullname": "Princess Carolyn",
+    "bio": "Aw fish!",
+    "imgUrl": "https://preview.redd.it/g8b6y8zygc981.jpg?auto=webp&s=ecd15c371d395963c1ce36cdade32540a4d7b617",
+    "following": [
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "u103",
+    "username": " Sarah_Lynn",
+    "password": " Sarah",
+    "fullname": " Sarah Lynn",
+    "bio": "Dumb shits!",
+    "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/06/09.jpg",
+    "following": [
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "u104",
+    "username": "Mr_Peanutbutter",
+    "password": " Peanutbutter",
+    "fullname": " Mr Peanutbutter",
+    "bio": "The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.",
+    "imgUrl": "https://www.andersonscraft.com/wp-content/uploads/2020/11/cDUoY9Ar_400x400.jpg",
+    "following": [
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      },
+      {
+        "_id": "u105",
+        "fullname": "Diane_Nguyen",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/10/09.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u105",
+        "fullname": "Diane_Nguyen",
+        "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/10/09.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "u105",
+    "username": "Diane_Nguyen",
+    "password": "Diane",
+    "fullname": "Diane Nguyen",
+    "bio": "There's no such thing as bad guys or good guys. We're all just guys who do good stuff sometimes and bad stuff sometimes. And all we can do is try to do less bad stuff and more good stuff",
+    "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/10/09.jpg",
+    "following": [
+      {
+        "_id": "u104",
+        "fullname": "Mr_Peanutbutter",
+        "imgUrl": "https://www.andersonscraft.com/wp-content/uploads/2020/11/cDUoY9Ar_400x400.jpg"
+      },
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ],
+    "followers": [
+      {
+        "_id": "u104",
+        "fullname": "Mr_Peanutbutter",
+        "imgUrl": "https://www.andersonscraft.com/wp-content/uploads/2020/11/cDUoY9Ar_400x400.jpg"
+      },
+      {
+        "_id": "u101",
+        "fullname": "Bojack_HorseMan",
+        "imgUrl": "https://flxt.tmsimg.com/assets/p10823479_n167780_cc_v9_aa.jpg"
+      }
+    ]
+  },
+  {
+    "_id": "u106",
+    "username": "Todd_Chavez",
+    "password": "Todd",
+    "fullname": "Todd Chavez",
+    "bio": "Hooray!",
+    "imgUrl": "https://sketchok.com/images/articles/01-cartoons/042-bojack/03/10.jpg",
+    "following": [
+      {}
+    ],
+    "followers": [
+      {}
+    ]
+  }
+]

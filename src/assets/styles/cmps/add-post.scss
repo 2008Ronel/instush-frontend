@@ -1,0 +1,16 @@
+.add-post {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: red 1px solid;
+    margin-top: 30%;
+
+    input {
+        border: 1px solid black;
+    }
+
+    .error {
+        color: red;
+        font-weight: bold;
+    }
+}
